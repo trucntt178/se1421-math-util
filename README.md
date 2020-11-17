@@ -8,7 +8,7 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://www.facebook.com/truc178/)
-[Email](mailto:toruc1234@gmail.com)
+1. [Facebook](https://www.facebook.com/truc178/)
+2. [Email](mailto:toruc1234@gmail.com)
 
 #### © 2020 by trucntt178
